@@ -1,6 +1,12 @@
 # AtlasModule
 Como instalar:
 
+Nescessario no VPS DragonCoreSSH 6 BETA ou Superior!
+Caso não contenha use o comando abaixo:
+```sh
+bash <(wget -qO- https://raw.githubusercontent.com/Penguinehis/DragonCoreSSH-Beta/main/install.sh)
+```
+
 Instale o painel web Atlas normalmente, e sincronize sua VPS
 
 Apos sincronizar sua VPS use o comando abaixo na VPS para substituir os modulos pelos modulos Dragon
